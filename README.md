@@ -91,15 +91,6 @@ java Main
 - MySQL Database Integration
 - Transaction Receipts
 
-## Screenshots
-
-Add your project screenshots here.
-
-```md
-![Login](screenshots/login.png)
-![Menu](screenshots/menu.png)
-```
-
 ## Author
 
 Manaswinni Reddy
